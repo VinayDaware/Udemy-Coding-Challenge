@@ -1,4 +1,4 @@
-/* Write your code below. Good luck! 🙂 */
+
 //TEST DATA 1: Marks weighs 78 kg and is 1.69 m tall. John weighs 92 kg and is 1.95 m tall.
 
 let massMark =78;
